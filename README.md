@@ -52,8 +52,8 @@ This site is deployed for free using **Vercel**.
 ### 🧪 To run locally:
 
 ```bash
-git clone (https://github.com/Rohitpatil34/Rohit_Portfolio.git)
-cd Rohit_Portfolio
+git clone https://github.com/Ashana2004/Portfolio.git
+cd Portfolio
 # Then open index.html in your browser
 
 
