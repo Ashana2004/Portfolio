@@ -10,7 +10,7 @@ Welcome to my personal **developer portfolio website** — a clean, responsive, 
 
 ## 🧑‍💻 About Me
 
-Hi 👋, I’m **Rohit Patil**  
+Hi 👋, I’m **Ashana Chavan**  
 I'm passionate about **Web Development**, and I love turning ideas into digital experiences. This website is a one-stop place for my:
 
 - Experience
